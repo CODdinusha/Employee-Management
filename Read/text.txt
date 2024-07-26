@@ -1,0 +1,6 @@
+* when I search for a date(or time period) then i could see that
+who are the employees that works that time period(as a list with small
+data of the employees)
+
+*In menu can see the 3 option(Admin,imployee,CSO portal)
+*In admin panel I can see how many employees, how many department, details about employees
